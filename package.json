@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-effector",
+  "version": "0.2.0",
+  "description": "The effector template with typescript support for Create React App",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeysova/cra-template-effector.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "effector"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sergeysova.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeysova/cra-template-effector/issues"
+  },
+  "homepage": "https://github.com/sergeysova/cra-template-effector",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
