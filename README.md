@@ -7,9 +7,9 @@ This template setup **effector** with **typescript**
 ## Installation
 
 ```bash
-npx create-react-app my-app --template effector
+npx create-react-app --template effector application-name
 
 # or
 
-yarn create react-app my-app --template effector
+yarn create react-app --template effector application-name
 ```
