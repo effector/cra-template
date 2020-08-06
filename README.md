@@ -1,15 +1,45 @@
-# CRA Template Effector
+# ☄️ cra-template-effector
 
-[![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev/v1.0)
+The [Effector](https://effector.now.sh) vanilla JavaScript and TypeScript templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
 
-This template setup **effector** with **typescript**
+## Install
 
-## Installation
+### Vanilla JavaScript template installation
+
+```via npm:```
 
 ```bash
-npx create-react-app --template effector application-name
+npx create-react-app <project-name> --template effector
+```
 
-# or
+```via yarn:```
 
-yarn create react-app --template effector application-name
+```bash
+yarn create react-app <project-name> --template effector
+```
+
+```via pnpm:```
+
+```bash
+pnpx create-react-app <project-name> --template effector
+```
+
+### TypeScript template installation
+
+```via npm:```
+
+```bash
+npx create-react-app <project-name> --template effector-typescript
+```
+
+```via yarn:```
+
+```bash
+yarn create react-app <project-name> --template effector-typescript
+```
+
+```via pnpm:```
+
+```bash
+pnpx create-react-app <project-name> --template effector-typescript
 ```
