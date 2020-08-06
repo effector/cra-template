@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-effector-typescript",
+  "version": "3.0.0",
+  "keywords": [
+    "effector",
+    "react",
+    "create-react-app",
+    "cra",
+    "template",
+    "typescript"
+  ],
+  "description": "The Effector template with TypeScript support for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/effector/cra-template-effector.git",
+    "directory": "typescript"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/effector/cra-template-effector/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
