@@ -8,7 +8,7 @@
     "cra",
     "template"
   ],
-  "description": "The Effector template for Create React App.",
+  "description": "The offcial Effector template for Create React App.",
   "main": "template.json",
   "repository": {
     "type": "git",

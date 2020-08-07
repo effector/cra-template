@@ -9,7 +9,7 @@
     "template",
     "typescript"
   ],
-  "description": "The Effector template with TypeScript support for Create React App.",
+  "description": "The offcial Effector template with TypeScript support for Create React App.",
   "main": "template.json",
   "repository": {
     "type": "git",
