@@ -1,4 +1,4 @@
-# cra-template-effectorjs-typescript
+# cra-template-effector-typescript
 
 This is the official template for [Create React App](https://github.com/facebook/create-react-app) with Effector and TypeScript support.
 
