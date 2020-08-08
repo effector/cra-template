@@ -2,7 +2,7 @@
 
 The official [Effector](https://effector.now.sh) Vanilla JavaScript and TypeScript templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
 
-![David](https://img.shields.io/david/effector/cra-template) ![npm](https://img.shields.io/npm/v/cra-template-effector?label=js%20template%20version&logo=npm) ![npm](https://img.shields.io/npm/v/cra-template-effector-typescript?label=ts%20template%20version&logo=npm)
+![David](https://img.shields.io/david/effector/cra-template) [![npm](https://img.shields.io/npm/v/cra-template-effector?label=js%20template%20version&logo=npm)](https://www.npmjs.com/package/cra-template-effector) ![npm](https://img.shields.io/npm/v/cra-template-effector-typescript?label=ts%20template%20version&logo=npm)
 
 ## Install
 
