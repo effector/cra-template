@@ -1,4 +1,4 @@
-# ☄️ cra-template-effector
+# ☄️ cra-template
 
 The official [Effector](https://effector.now.sh) Vanilla JavaScript and TypeScript templates for bootstraping [Create React App](https://github.com/facebook/create-react-app) apps.
 
