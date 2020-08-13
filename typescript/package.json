@@ -1,6 +1,6 @@
 {
   "name": "cra-template-effector-typescript",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "keywords": [
     "effector",
     "react",
@@ -13,7 +13,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/effector/cra-template-effector.git",
+    "url": "https://github.com/effector/cra-template.git",
     "directory": "typescript"
   },
   "license": "MIT",
@@ -21,7 +21,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/effector/cra-template-effector/issues"
+    "url": "https://github.com/effector/cra-template/issues"
   },
   "files": [
     "template",
